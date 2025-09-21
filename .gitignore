@@ -1,0 +1,31 @@
+# Generated WebAssembly files (will be built from source)
+web/fractal.js
+web/fractal.wasm
+
+# Node modules (if using Node.js server)
+node_modules/
+npm-debug.log*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
